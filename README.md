@@ -17,7 +17,14 @@ The quantum circuit is executed on Qiskit's Quantum Assembly Language (QASM) sim
 
 * Run the script with Python: `python quantum_circuit.py`.
 
+## 👤 Author
+
+**VellVoid**
+
+For more information, follow me on Twitter: [@VellVoid](https://twitter.com/VellVoid)
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 

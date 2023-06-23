@@ -1,3 +1,11 @@
+# -----------------------------------------------------------------------
+# quantum_circuit_info.py
+# Version: 1.0
+# Author: Vell Void
+# GitHub: https://github.com/VellVoid
+# Twitter: https://twitter.com/VellVoid
+# -----------------------------------------------------------------------
+
 from qiskit import QuantumCircuit, transpile, assemble, Aer, execute
 from qiskit.visualization import plot_bloch_multivector, plot_histogram
 

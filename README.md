@@ -23,6 +23,8 @@ The quantum circuit is executed on Qiskit's Quantum Assembly Language (QASM) sim
 
 For more information, follow me on Twitter: [@VellVoid](https://twitter.com/VellVoid)
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">🐍📚 Python Code Snippet Thread 📚🐍<br><br>Learn Python with these powerful snippets! Each one highlights a unique concept. Let&#39;s explore! <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/CodeSnippet?src=hash&amp;ref_src=twsrc%5Etfw">#CodeSnippet</a> <a href="https://twitter.com/hashtag/Education?src=hash&amp;ref_src=twsrc%5Etfw">#Education</a> <a href="https://t.co/buxhQjpMep">pic.twitter.com/buxhQjpMep</a></p>&mdash; Vell (@VellVoid) <a href="https://twitter.com/VellVoid/status/1672286361028636672?ref_src=twsrc%5Etfw">June 23, 2023</a></blockquote>
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
